@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "firstname": "Garrison",
+      "lastname": "Paul",
+      "phone": 847332223,
+      "address": [
+        "Unit - 232",
+        "Sofia Streat",
+        "Mumbai"
+      ]
+    },
+    {
+      "firstname": "Simanchal",
+      "lastname": "Tripathy",
+      "phone": 97399465,
+      "address": [
+        "F1404",
+        "PPB",
+        "Bangalore"
+      ]
+    }
+  ],
+  "testNumber" : 1,
+  "testObject" : {
+    "key": "value"
+  }
+}
